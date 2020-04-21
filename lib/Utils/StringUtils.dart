@@ -1,0 +1,12 @@
+final String APP_NAME = "One Page App";
+final String APP_BAR_TITLE_ADD_TRANSPORTATION = "Seyahat Ekle";
+final String TAB_BAR_ELEMENT_IN = "ŞEHİR İÇİ";
+final String TAB_BAR_ELEMENT_OUT = "ŞEHİRLER ARASI";
+final String ADD_TRANSPORTATION_BUTTON = "ÜCRETSİZ EKLE";
+final String ADD_NEW_TRANSPORT = "YENİ SEFER EKLE";
+final String SELECT_PROVINCE = "İl Seçiniz";
+final String SELECT_FROM = "Nereden";
+final String SELECT_TO = "Nereye";
+final String SELECT_DATE = "Tarih ve Saat Seçiniz";
+final String SELECT_VEHICLE = "Araç Seçiniz";
+final String ACCEPT_DIALOG_TITLE = "İyi Yolculuklar";
